@@ -12,6 +12,7 @@
     "build:cjs": "babel src --out-dir lib",
     "build:es": "BABEL_ENV=es babel src --out-dir lib/es",
     "prepare": "npm run build",
+    "postinstall": "npm run build",
     "pretty": "prettier --write src/*.js ./*.js test/*.js",
     "lint": "eslint ./",
     "lint:fix": "eslint ./ --fix",
