@@ -59,6 +59,6 @@
   },
   "dependencies": {
     "prop-types": "^15.5.0",
-    "react-async-script": "github:totraev/react-async-script"
+    "react-async-script": "https://github.com/totraev/react-async-script"
   }
 }

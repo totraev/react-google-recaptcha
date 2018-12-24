@@ -3646,9 +3646,9 @@ rc@^1.2.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
-"react-async-script@github:totraev/react-async-script":
+"react-async-script@https://github.com/totraev/react-async-script":
   version "1.0.0"
-  resolved "https://codeload.github.com/totraev/react-async-script/tar.gz/83a67b1c7b8377edfce9280244d0e06690e8bbf1"
+  resolved "https://github.com/totraev/react-async-script#1ae54a6ec0936b34faed08a670305b58fe17f833"
   dependencies:
     hoist-non-react-statics "^3.0.1"
     prop-types "^15.5.0"
