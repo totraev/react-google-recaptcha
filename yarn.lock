@@ -3648,7 +3648,7 @@ rc@^1.2.7:
 
 "react-async-script@https://github.com/totraev/react-async-script":
   version "1.0.0"
-  resolved "https://github.com/totraev/react-async-script#1ae54a6ec0936b34faed08a670305b58fe17f833"
+  resolved "https://github.com/totraev/react-async-script#f2dcc83a6a6ccced226882883b3a5c8777dfdbbe"
   dependencies:
     hoist-non-react-statics "^3.0.1"
     prop-types "^15.5.0"
